@@ -7,3 +7,4 @@ void fact(int n)
   printf("fact of %d is %d",n,f);
 
 }
+printf("hello geetha mam, pavana here")
